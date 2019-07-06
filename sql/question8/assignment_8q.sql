@@ -1,0 +1,1 @@
+select max(sal) as Max_salary, min(sal) as Min_sal, avg(sal) as Average_salary from EMP;

@@ -1,0 +1,11 @@
+insert into Course_Details values('GPF','Programming Fundamentals');
+insert into Course_Details values('GDB','Relational Database Management System');
+insert into Course_Details values('ODB','Oracle 8i');
+insert into Course_Details values('OVB','Visual Basic');
+insert into Course_Details values('JJA','Java');
+insert into Course_Details values('JAJ','Advanced Java');
+insert into Course_Details values('DNT','Introduction to DotNet Technolory');
+insert into Course_Details values('DCS','Programmming in C#');
+insert into Course_Details values('DDB','SQL Server 2000');
+insert into Course_Details values('MDB','DB2');
+insert into Course_Details values('MCS','CICS');

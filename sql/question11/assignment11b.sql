@@ -1,0 +1,1 @@
+select ename, sal, sal*0.1 as PF from EMP;

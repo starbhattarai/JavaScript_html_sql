@@ -1,0 +1,18 @@
+<html>
+<head>
+<script language="JavaScript">
+	var secA = parseInt(prompt("Please enter the marks for secA",0));
+	var secB = parseInt(prompt("Please enter the marks for secB",0));
+	var secC = parseInt(prompt("Please enter the marks for secC",0));
+	total = secA+secB+secC;
+	if(((total/3)>65)&&(secA>50&secB>50&secC>50)){
+		document.write("User pass the exam");
+		document.write("Average "+total/3);
+	}
+	else{
+		document.writeln("User fails in the exam");
+		document.write("Average "+total/3);
+	}
+</script>
+</head>
+</html>
